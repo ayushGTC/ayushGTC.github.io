@@ -1,0 +1,89 @@
+body
+{
+	background-color: #A2D2FF;
+}
+.navbar-nav{
+	display: inline-block;
+  margin-left: 67%;
+}
+.navbar-brand{
+  margin-left: 90px;
+}
+.mainimage{
+  position: relative;
+}
+.right{
+  position: absolute;
+  width: 500px;
+  height:300px;
+  right:20px;
+  bottom:180px;
+  font-family: 'Fredoka One', cursive;
+  color:white;
+}
+.tagline{
+  font-size: 80px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+h1
+{
+	font-family: 'Special Elite', cursive;
+	font-weight: normal;
+	color: #041C32;
+}
+h2
+{
+	font-family: 'Josefin Slab', serif;
+	font-weight: bold;
+	color: #04293A;
+}
+h3
+{
+	font-family: 'Josefin Slab', serif;
+	color: #064663;
+}
+p{
+   font-family: 'Hubballi', cursive;
+   font-size: 20px;
+}
+.list
+{
+	font-family: 'Hubballi', cursive;
+   font-size: 20px;
+}
+.rabbit
+{
+   position: relative;
+   float: right;
+   margin-left: 5px;
+}
+.dog
+{
+    position: relative;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+.cat
+{
+	position: relative;
+	float: right;
+	margin-left: 5px;
+}
+.wild
+{
+	float: left;
+	margin-right: 10px;
+}
+.help{
+  padding: 30px 100px 30px 100px;
+
+
+}
+.stray{
+  padding: 30px 100px 30px 100px;
+}
+.wildan{
+  padding: 30px 100px 30px 100px;
+}

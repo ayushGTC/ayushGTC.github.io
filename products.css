@@ -1,0 +1,41 @@
+body
+{
+  background-color: #A2D2FF;
+}
+.navbar-nav{
+  margin-right: 100px;
+}
+.navbar-brand{
+  margin-left: 90px;
+}
+.dogprod{
+  margin-top: 60px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: Calistoga, display;
+  font-size: 16px;
+  font-weight: 100;
+
+}
+.dog_treat{
+  font-family: sansation;
+  padding-top: 10px;
+}
+.inner{
+  overflow: hidden;
+}
+.inner img{
+  transition: all 2s ease;
+}
+.inner:hover img{
+  transform: scale(1.5);
+}
+h3
+{
+  font-family: 'Barlow Condensed', sans-serif;
+}
+h4
+{
+  font-family: 'BIZ UDMincho', serif;
+  text-align: match-parent;
+}

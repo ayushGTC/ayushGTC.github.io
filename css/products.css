@@ -1,0 +1,29 @@
+.navbar-brand{
+  margin-left: 100px;
+}
+.navbar-nav{
+  margin-right: 100px;;
+}
+
+.dogprod{
+  margin-top: 10px;
+  margin-bottom: 50px;
+  text-align: center;
+    font-family: Calistoga, display;
+    font-size: 16px;
+    font-weight: 100;
+
+}
+.dog_treat{
+  font-family: sansation;
+  padding-top: 10px;
+}
+.inner{
+  overflow: hidden;
+}
+.inner img{
+  transition: all 2s ease;
+}
+.inner:hover img{
+  transform: scale(1.5);
+}

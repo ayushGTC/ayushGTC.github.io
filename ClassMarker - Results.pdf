@@ -1,0 +1,1783 @@
+<!DOCTYPE html>
+<!-- saved from url=(0063)file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results.html -->
+<html lang="en" translate="no"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+<title>ClassMarker - Results</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/jquery-ui-1.12.1.custom.min.css">
+    <link rel="stylesheet" type="text/css" href="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/cmstudent.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/quiz.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/cmbbcode.css" media="screen">
+	<link href="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/featherlight.css" type="text/css" rel="stylesheet">
+
+
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/css3/ie.css?v=317"/>
+	<![endif]-->
+
+
+	<link rel="stylesheet" href="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous">
+
+
+
+
+
+		<script async="" src="file://www.google-analytics.com/analytics.js"></script><script async="" src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/analytics.js.download"></script><script>
+	var audio_video_warning = "";
+	var web_root = "/";
+	var webpath_img = "/img3/";
+		var s3_assets_path = "https://";
+	var asset_ref_dir = new Array(
+	    /(0\/)/,
+	    /(1\/)/,
+	    /(2\/)/
+	);
+	var asset_actual_dir = new Array(
+	    'https://0cm.classmarker.com/',
+	    'https://1cm.classmarker.com/',
+	    'https://2cm.classmarker.com/'
+	);
+	</script>
+
+	<script src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/jquery-1.9.1.min.js.download"></script>
+	<script src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/jquery-ui-1.12.1.min.js.download"></script>
+	<script src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/cmall.js.download"></script>
+	<script src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/xbbcode.js.download"></script>
+	<script src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/featherlight.js.download"></script>
+<script>var use_test_page_ajax = true;var test_web_root = '/test/';</script><link rel="stylesheet" media="print" type="text/css" href="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/noprint.css">		<style>
+		*{user-select: none;-ms-user-select: none;-o-user-select:none;-moz-user-select: none;-khtml-user-select: none;-webkit-user-select: none;-webkit-touch-callout: none;}
+		input,textarea{user-select: text!important;-ms-user-select: text!important;-o-user-select:text!important;-moz-user-select: text!important;-khtml-user-select: text!important;-webkit-user-select: text!important;-webkit-touch-callout: default!important;}
+		</style>
+		<!--[if lte IE 9]>
+		<script>document.onselectstart = function() { return false; };</script>
+		<![endif]-->
+		</head>
+<body>
+<div class="header">
+	<div class="branding">
+		<div class="f-left"><a href="https://www.classmarker.com/a/"><img alt="Quiz Maker" src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/cm-loggedin-logo1x.webp" srcset="/img3/retina/cm-loggedin-logo1x.jpg 1x, /img3/retina/cm-loggedin-logo2x.jpg 2x, /img3/retina/cm-loggedin-logo3x.jpg 3x" width="182" height="27"></a><span class="noprint">ClassMarker</span></div>
+		<div class="top-right-nav noprint">
+			<ul class="upgrade-logout-nav">
+				<li><a href="https://www.classmarker.com/u/details/">Hi Kartikey</a></li>
+
+				<li><a href="https://www.classmarker.com/login/logout/">Log out</a></li>
+			</ul>
+		</div>
+	</div>
+
+    <a class="skip-link" href="https://www.classmarker.com/test/results/?test_id=1907718#content">Skip to Content</a>
+    <div class="access level-1">
+    	<ul id="menu" class="menu main">
+			<li class=" dashboard"><a href="https://www.classmarker.com/u/">Group Tests</a></li>
+        	<li class=" dashboard"><a href="https://www.classmarker.com/u/groups/">My Groups</a></li>
+
+			<li class=" dashboard my-account my-account-student" id="account">
+				<a href="https://www.classmarker.com/u/details/" class="account">
+					<span class="text">My Details</span>
+				</a>
+			</li>
+        </ul>
+    </div><!-- END .access -->
+</div>
+
+
+<div id="content" class="clearfix">
+<div class="innerWrapper"><div class="col-span-5 col result-col-1"><div class="clearheight"></div><h2 class="member-name name">Kartikey Negi</h2><h2 class="test-name name">JavaTestBtech_1</h2><h2 class="group-name name">dit_btechBatch_1</h2></div><div class="col-span-1">&nbsp;</div><div class="col-span-4 result-col-2"><div class="testres"><div class="score "><span id="percentagespan">48.3</span>%</div><div class="testresleft"><div>Points:</div><div>Duration:</div><div>Date started:</div><div>Date finished:</div></div><div class="testresright"><div><span id="pointsscoredspan">29</span>&nbsp;/ <span id="pointsavailablespan">60</span></div><div id="resultsdiv_duration_tt">00:38:43</div><div id="resultsdiv_datestarted_tt">Sat 5 Mar '22 09:04</div><div id="resultsdiv_datefinished_tt">Sat 5 Mar '22 09:43</div></div></div></div><div class="clearheight"></div><div class="col-span-5 clear-ads-responsive"></div><div class="col-span-5 clear-ads-responsive"></div><div class="clearheight"></div><h3>Answers</h3><div class="littledark small answerKey">
+
+			<span class="key-element"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correctly answered"> Correctly answered</span>
+			<span class="key-element"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrectly answered"> Incorrectly answered </span><span class="key-element"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct option"> Missed correct option</span><div class="clearheight5"></div></div><div class="col-span-5 clear-ads-responsive"></div><div class="col-span-5 clear-ads-responsive"></div>		<script>
+			$("document").ready(function () {
+				displayQuestionToggleFilterLinks();
+			});
+		</script>
+		<div class="student_question_filter_links"><a href="https://www.classmarker.com/test/results/?test_id=1907718#" class="view_questions_all qfl_active">All Questions</a><a href="https://www.classmarker.com/test/results/?test_id=1907718#" class="view_questions_correct divider_left"><span class="q_qc_count bold">29</span> Correct</a><span class="hide q_qpc_element"><a href="https://www.classmarker.com/test/results/?test_id=1907718#" class="view_questions_partially_correct divider_left"><span class="q_qpc_count bold">0</span> Partially Correct</a></span><a href="https://www.classmarker.com/test/results/?test_id=1907718#" class="view_questions_incorrect divider_left"><span class="q_qw_count bold">31</span> Incorrect</a><span class="hide q_qrg_element"><a href="https://www.classmarker.com/test/results/?test_id=1907718#" class="view_questions_require_grading divider_left"><span class="q_qrg_count bold">0</span> Require Grading</a></span><span class="hide q_qu_element"><a href="https://www.classmarker.com/test/results/?test_id=1907718#" class="view_questions_unanswered divider_left"><span class="q_qu_count bold">0</span> Unanswered</a></span></div><div onselectstart="return false;" oncopy="return false;" oncut="return false;"><div class="qd" id="switch-user-q30568423"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 1 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following codeA?<br>
+class&nbsp; Pentagon{<br>
+<br>
+&nbsp;<br>
+<br>
+}<br>
+<br>
+class Shapes extends Pentagon{<br>
+<br>
+&nbsp;<br>
+<br>
+}<br>
+<br>
+class Hexagon extends Pentagon{<br>
+<br>
+&nbsp;<br>
+<br>
+}<br>
+<br>
+public class Test {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;public static void main(String[] args) {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pentagon p=new Shapes();<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hexagon h=(Hexagon)p;<br>
+<br>
+&nbsp;&nbsp;&nbsp;}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">compilation fails</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">runtime error&nbsp; ClassCastException</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">No Issue at all</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">None of these</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568423pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568477"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 2 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">What is the output of the below given program?<br>
+if(1){<br>
+System.out.println("Executed");<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Executed</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">No output</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Compiler Error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of the above</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568477pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568591"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 3 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">interface Z{<br>
+int X = 10;<br>
+}<br>
+interface Y{<br>
+int X = 20;<br>
+}<br>
+interface X extends Y, Z{<br>
+<br>
+}<br>
+What is the output ?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">X will be conflicted , it created Ambiguity</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">No Issue</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">RuntimeError</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568591pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568555"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 4 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">To take input from the user in Java we can use</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Scanner</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">BufferedReader</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Command Line Argument</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">All of the above</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568555pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568406"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 5 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Is this the valid syntax<br>
+class A{<br>
+void show(){<br>
+class B{<br>
+void print(){<br>
+}<br>
+}<br>
+}<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568406pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568375"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 6 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Java Interface allows private method</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568375pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568447"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 7 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">What is the output of the following code?<br>
+public static void main(String... args) {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;double d=0.9-0.8;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(d);&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">number too small for double</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">this assignment is not valid for long</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">0.09999999999999998</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">Compilation Fails</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568447pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568256"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 8 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Java uses Compiler and Interpreter Both</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568256pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568358"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 9 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">class A{<br>
+static void show(){<br>
+System.out.println("A show ");<br>
+}<br>
+}<br>
+class B extends A{<br>
+@Override<br>
+static void show(){<br>
+System.out.println("B show ");<br>
+}<br>
+public static void main(String args[]){<br>
+new B().show();<br>
+}<br>
+}<br>
+What is the output of above code ?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">B show</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">A show</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">Compilation Fail</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">Runtime Error</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568358pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568583"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 10 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">What will happen if we make a constructor inside abstract class ?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">runtime error will be generated</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">no issue, we can make</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">compilation error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">we can make but only private</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568583pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568236"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 11 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Method Overloading can be on Inheritance or in single class</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568236pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568416"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 12 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">class A{<br>
+void show(){<br>
+System.out.println("A Show");<br>
+}<br>
+}<br>
+A obj = new A(){<br>
+@Override<br>
+final void show(){<br>
+System.out.println("AA Show");<br>
+}<br>
+};<br>
+obj.show();<br>
+What is the output of the above code?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">AA Show</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">A Show</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">Runtime Error</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568416pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568383"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 13 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+&nbsp;public class A {<br>
+<br>
+&nbsp;public static void go(Long n) {System.out.println("Long ");}<br>
+public static void go(Short n) {System.out.println("Short ");}<br>
+&nbsp;public static void go(int n) {System.out.println("int ");}<br>
+&nbsp;public static void main(String [] args) {<br>
+&nbsp;short y = 6;<br>
+&nbsp;long z = 7;<br>
+&nbsp;go(y);<br>
+&nbsp;go(z);<br>
+&nbsp;}<br>
+&nbsp;}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">int Long</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Short Long</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">Compilation fails.</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">An exception is thrown at runtime.</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568383pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568253"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 14 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Can we overload the main method in Java?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568253pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568402"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 15 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Can we define Java class as private</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568402pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568650"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 16 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+<br>
+import&nbsp;java.util.Scanner;<br>
+<br>
+<br>
+<br>
+<br>
+class&nbsp;A{<br>
+<br>
+&nbsp; &nbsp;&nbsp;static&nbsp;void takeName(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Scanner scanner= new Scanner(System.in);<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Enter the Name");<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;String name = scanner.nextLine();<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Your Name is "+name);<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;scanner.close();<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+&nbsp; &nbsp;&nbsp;static&nbsp;void takeAge(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Scanner scanner= new Scanner(System.in);<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Enter the Age");<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;int age = scanner.nextInt();<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Your Age is "+age);<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;scanner.close();<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+&nbsp; &nbsp;&nbsp;public&nbsp;static&nbsp;void main(String[] args) {<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;takeName();<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;takeAge();<br>
+<br>
+&nbsp;&nbsp; &nbsp;<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">Generate Compilation Error</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Generate Runtime Exception</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">Program runs SuccessFully and print the result</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">None of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568650pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568572"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 17 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Object class provides you</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">toString</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">equals</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">finalize</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">all of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568572pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568273"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 18 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">To get the single char from a current index we can use</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">chars[0]</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">indexOf</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">charAt</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">All of the above</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568273pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568328"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 19 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">class B{<br>
+<br>
+public static void show() {&nbsp;<br>
+<br>
+String a = ""; z:<br>
+<br>
+for(int x = 0; x &lt; 3; x++) {<br>
+<br>
+for(int y = 0; y &lt; 2; y++) {<br>
+<br>
+if(x==1)&nbsp;<br>
+<br>
+break;&nbsp;<br>
+<br>
+if(x==2 &amp;&amp; y==1)&nbsp;<br>
+<br>
+break z;&nbsp;<br>
+<br>
+a = a + x + y;&nbsp;<br>
+<br>
+}&nbsp;<br>
+<br>
+}&nbsp;<br>
+<br>
+System.out.println(a);&nbsp;<br>
+<br>
+}&nbsp;<br>
+<br>
+}<br>
+What is the output , when you call B.show()</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">000120</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">00</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">0001</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">00012021</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568328pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568077"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 20 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+public class Test01 {<br>
+<br>
+public static void main(String[] args) {<br>
+<br>
+double w = 10.0/0;<br>
+<br>
+System.out.println(w);<br>
+<br>
+}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">ArithmeticException - Divide by Zero</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Infinity</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">0.0</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">None of these</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568077pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568286"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 21 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+interface X{<br>
+int add(int x, int y);<br>
+}<br>
+<br>
+public class Test01 {<br>
+static void show() {<br>
+X obj = new X() {<br>
+<br>
+@Override<br>
+<br>
+public int add(int x, int y) {<br>
+<br>
+<br>
+<br>
+return x + y;<br>
+<br>
+}<br>
+<br>
+<br>
+<br>
+};<br>
+<br>
+obj.add(10, 20);<br>
+<br>
+}<br>
+<br>
+public static void main(String[] args) {<br>
+<br>
+Test01.show();<br>
+<br>
+<br>
+<br>
+}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">30</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Runtime Error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">No output</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">None of these</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568286pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568563"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 22 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">interface Z{<br>
+void show();&nbsp;<br>
+}<br>
+class B implements Z{<br>
+@Override<br>
+void show() throws ArithmeticException{<br>
+}<br>
+}<br>
+Assuming Calling new B().show();</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Runtime Error</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">No Issue</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568563pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568399"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 23 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">final A obj = new A() means</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">A class is become final no one can inherit</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">A class obj members are become final</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">obj can't assign another reference</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">A is become singleton</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568399pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568597"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 24 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">interface B{<br>
+}<br>
+class C{<br>
+}<br>
+class A implements B extends C{<br>
+<br>
+}<br>
+What is the output ?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">RuntimeError</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">No Issue</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568597pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568529"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 25 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Which of the following keyword in constructor is used to call another constructor overloaded?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">this</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">super</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">new A();</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568529pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568324"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 26 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the Output of the following Code?<br>
+interface A{<br>
+void show();<br>
+}<br>
+class B implements A{<br>
+void show(){<br>
+System.out.println("B Show ");<br>
+}<br>
+public static void main(String args[]){<br>
+B b = new B();<br>
+b.show();<br>
+}<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">B Show</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">Runtime Error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">None of These</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568324pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568264"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 27 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+class Parent{<br>
+<br>
+&nbsp; String show() {<br>
+System.out.println("I am Parent Show");<br>
+return null;<br>
+<br>
+}<br>
+}<br>
+<br>
+class Child extends Parent{<br>
+<br>
+Object show() {<br>
+System.out.println("I am Child Show");<br>
+return null;<br>
+}<br>
+}<br>
+<br>
+public class Test01 {<br>
+<br>
+public static void main(String[] args) {<br>
+<br>
+Child child = new Child();<br>
+<br>
+child.show();<br>
+<br>
+}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">I am Child Show</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">I am Parent Show</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">Runtime error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">None of these</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568264pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568337"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 28 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">What is the output of the following code<br>
+int x = 0; int y = 10;&nbsp;<br>
+do {<br>
+y--; ++x;&nbsp;<br>
+} while (x &lt; 5);&nbsp;<br>
+System.out.print(x + "," + y);&nbsp;</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">5,5</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">5,4</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">6,5</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">6,6</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568337pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568512"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 29 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Choose the Incorrect statement.</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">char x = 122</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">char x = ‘\u0133’</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">char x = “g”</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">char x = ‘y’</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568512pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568408"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 30 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">A String class</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">final class</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">immutable</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">maintain string pool</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">all of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568408pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568224"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 31 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Which data type not support Arithmetic Operators Operations</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">int</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Integer</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">float</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">BigDecimal</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568224pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568538"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 32 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">abstract class A{<br>
+abstract final void show();<br>
+}<br>
+class B extends A{<br>
+void show(){<br>
+System.out.println("B Show ");<br>
+}<br>
+}<br>
+Assuming Calling new B().show();</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Runtime Error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">B Show</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568538pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568308"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 33 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">Assuming int is of 4bytes, what is the size of int arr[17]?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">68</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">4</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">72</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">21</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568308pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568230"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 34 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Open Close Principle depict</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">IS-A RelationShip</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Has-A RelationShip</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Entity RelationShip</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">No RelationShip</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568230pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568575"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 35 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Overloading can work with inheritance and non inheritance classes</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568575pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568520"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 36 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">What is output of the given snippet?<br>
+if(true)<br>
+<br>
+{<br>
+<br>
+break;<br>
+<br>
+System.out.println("Good Luck");<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Compiler error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">No output</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Good Luck</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of the above</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568520pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568657"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 37 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+<br>
+class&nbsp;A{<br>
+<br>
+&nbsp; &nbsp;&nbsp;static&nbsp;void show(Integer x){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Integer Wrapper");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+&nbsp; &nbsp;&nbsp;static&nbsp;void show(short x){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("short ");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+&nbsp; &nbsp;&nbsp;static&nbsp;void show(long x){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("long ");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+&nbsp; &nbsp;&nbsp;static&nbsp;void show(double x){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("double");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+&nbsp; &nbsp;&nbsp;static&nbsp;void show(Long x){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Long Wrapper");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+&nbsp; &nbsp;&nbsp;public&nbsp;static&nbsp;void main(String[] args) {<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;show(10);<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">double</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">short</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">long</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">Integer Wrapper</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568657pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568080"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 38 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+public class Test01 {<br>
+public static void main(String[] args) {<br>
+System.out.println(++3*4);<br>
+}<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">12</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Compilation fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">16</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">15</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568080pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568411"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 39 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">Which one is the correct way of define main method</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">static public void main(String arg[])</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">static public void main(String ...a)</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">public&nbsp;static void main(String []args)</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">All of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568411pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568546"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 40 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">to read a property file</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Use ResourceBundle</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Use File</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Use FileOutputStream</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">Use ObjectInputStream</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568546pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568460"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 41 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code<br>
+&nbsp;public static void main(String... args) {<br>
+<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;int arr[]=new int[new BigInteger(Integer.toBinaryString(2)).intValue()];<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;for(int a=0;a&lt;arr.length;a++){<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arr[a]=a*a;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(arr[9]);<br>
+<br>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">ArrayIndexOutOfBoundException</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">64</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">81</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">91</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568460pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568469"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 42 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">What is the output of the following code?<br>
+int a = 0b1111;<br>
+<br>
+System.out.println(a);</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">10</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">15</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">4</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568469pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568283"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 43 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Which one is the root class in Java?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">String</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Object</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Integer</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">Wrapper</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568283pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568247"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 44 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Which one is used to compile , doc , execute, debug a java program ?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">JRE</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">JDK</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">JVM</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">JIT</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568247pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568628"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 45 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What are the correct ways of overriding ?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">class&nbsp;P{<br>
+<br>
+&nbsp; &nbsp;&nbsp;void show(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("P Show");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}<br>
+<br>
+class&nbsp;Q&nbsp;extends&nbsp;P{<br>
+<br>
+&nbsp; &nbsp;&nbsp;@Override<br>
+<br>
+&nbsp; &nbsp;&nbsp;public&nbsp;final&nbsp;void show(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Q show");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}<br>
+<br>
+class&nbsp;A{<br>
+<br>
+&nbsp; &nbsp;&nbsp;public&nbsp;static&nbsp;void main(String[] args) {<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Q obj = new Q();<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;obj.show();<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">class&nbsp;P{<br>
+<br>
+&nbsp; &nbsp;&nbsp;protected&nbsp;void show(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("P Show");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}<br>
+<br>
+class&nbsp;Q&nbsp;extends&nbsp;P{<br>
+<br>
+&nbsp; &nbsp;&nbsp;@Override<br>
+<br>
+&nbsp;&nbsp; &nbsp;&nbsp;public&nbsp;final&nbsp;void show(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Q show");<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}<br>
+<br>
+class&nbsp;A{<br>
+<br>
+&nbsp; &nbsp;&nbsp;public&nbsp;static&nbsp;void main(String[] args) {<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Q obj = new Q();<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;obj.show();<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">class&nbsp;P{<br>
+<br>
+&nbsp; &nbsp;&nbsp;protected&nbsp;Object show(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("P Show");<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;return null;<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}<br>
+<br>
+class&nbsp;Q&nbsp;extends&nbsp;P{<br>
+<br>
+&nbsp; &nbsp;&nbsp;@Override<br>
+<br>
+&nbsp;&nbsp; &nbsp;&nbsp;public&nbsp;final&nbsp;String show(){<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;System.out.println("Q show");<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;return null;<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}<br>
+<br>
+class&nbsp;A{<br>
+<br>
+&nbsp; &nbsp;&nbsp;public&nbsp;static&nbsp;void main(String[] args) {<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Q obj = new Q();<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;obj.show();<br>
+<br>
+&nbsp; &nbsp;&nbsp;}<br>
+<br>
+}</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">all of them</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568628pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568219"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 46 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">Which one is incorrect way to declare an array<br>
+<br>
+a) int arr[] = new int[5]<br>
+b) int [] arr = new int[5]<br>
+c) int arr[] = new int[5]<br>
+d) int arr[] = [10,20,30];</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">d</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">c</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">a</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">b</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568219pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568266"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 47 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Abstract class cannot have a constructor</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>A.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568266pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568239"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 48 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+class Parent{<br>
+<br>
+private final void show() {<br>
+<br>
+System.out.println("I am Parent Show");<br>
+<br>
+}<br>
+<br>
+}<br>
+<br>
+class Child extends Parent{<br>
+<br>
+void show() {<br>
+<br>
+super.show();<br>
+<br>
+System.out.println("I am Child Show");<br>
+<br>
+}<br>
+<br>
+}<br>
+<br>
+public class Test01 {<br>
+<br>
+public static void main(String[] args) {<br>
+<br>
+Child child = new Child();<br>
+<br>
+child.show();<br>
+<br>
+}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Runtime Error</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">I am Child Show</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">I am Parent Show</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568239pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568066"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 49 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+<br>
+public class Test01 {<br>
+public static void main(String[] args) {<br>
+<br>
+byte x&nbsp; = (byte)130;<br>
+<br>
+++x;<br>
+<br>
+System.out.println(x);<br>
+<br>
+}<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">131</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">130</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">Runtime Exception</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">-125</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568066pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568390"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 50 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">If x is a variable declare same in A, B and C Class and these class maintain multi level hierachy<br>
+A is GrandParent<br>
+B is Parent&nbsp;<br>
+C is Child<br>
+so from C want to access x&nbsp;</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">super.super.x</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">this.super.x</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">((A)this).x</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">(A)this.x</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568390pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568485"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 51 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">class A{<br>
+A(){<br>
+this(10);<br>
+System.out.println("Hello ");<br>
+}<br>
+A(int x){<br>
+this();<br>
+System.out.println("Hi ");<br>
+}<br>
+}<br>
+Assuming Calling new A(10);</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">Hello Hi</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Hi Hello</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">Hello Hi Infinite Time</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">Error</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568485pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568502"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 52 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">What is the output of the code snippet?<br>
+<br>
+byte a = 100;<br>
+<br>
+a++;<br>
+<br>
+a = a + 1;<br>
+<br>
+System.out.println(a);</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>B.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">No output</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">Compiler error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">100</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">None of the above</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568502pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568291"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 53 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of following code?<br>
+public class A<br>
+{<br>
+public static void main(String args[])<br>
+{<br>
+int []arr = {1,2,3,4,5};<br>
+System.out.println(arr[5]);<br>
+}<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">4</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">5</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">ArrayIndexOutOfBoundException</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">HeapOutOfMemoryError</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568291pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568276"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 54 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">Constructor Chaining can be done using</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">super</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">this</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">both super and this</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">none of these</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568276pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568353"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 55 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+String[] arr = { "Brain", "Mentors", "Delhi" };&nbsp;<br>
+String first = (arr.length &gt; 0) ? arr[0] : null;</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>C.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">Compilation fails.&nbsp;</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">An exception is thrown at runtime.&nbsp;</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">The variable first is set to null.&nbsp;</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">The variable first is set to elements[0].</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568353pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568440"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 56 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+public class Test {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;static void print(){<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thisisapoint:<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("before loop...");<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for(;;){<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("in loop 1...");<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for(;;){<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("in loop 2...");<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for(;;){<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("in loop 3....");<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;while(true){<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break thisisapoint;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;&nbsp;&nbsp;public static void main(String[] args) {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print();<br>
+<br>
+&nbsp;&nbsp;&nbsp;}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">Compilation Fails</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Runtime Error</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">before loop...<br>
+<br>
+in loop 1...<br>
+<br>
+in loop 2...<br>
+<br>
+in loop 3.</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">in loop 1...<br>
+<br>
+in loop 2...<br>
+<br>
+in loop 3.</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568440pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568558"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 57 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">class A{<br>
+Object show(){<br>
+<br>
+}<br>
+}<br>
+class B extends A{<br>
+String show(){<br>
+}<br>
+}<br>
+Assuming Calling new B().show()&nbsp;<br>
+Is this the correct way of overriding</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>A.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">True</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">False</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568558pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568493"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 58 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">public class Constructor<br>
+<br>
+{<br>
+<br>
+int books = 20;<br>
+<br>
+Constructor()<br>
+<br>
+{<br>
+<br>
+this(100);<br>
+<br>
+}<br>
+<br>
+Constructor(int books)<br>
+<br>
+{<br>
+<br>
+System.out.println("Books = "+ books);<br>
+<br>
+}<br>
+<br>
+<br>
+<br>
+<br>
+public static void main(String[] args)<br>
+<br>
+{<br>
+<br>
+Constructor obj = new Constructor();<br>
+<br>
+}<br>
+<br>
+}<br>
+What is output of the above code ?</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">Compiler error</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">Books = 20</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">Books = 0</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">Books = 100</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568493pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div><div class="qd" id="switch-user-q30568431"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 59 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  bbcode editor qpad">What is the output of the following code?<br>
+class Tutor{<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;static int a=90;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;static {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int a=900;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.println("hello "+a);<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+<br>
+&nbsp;<br>
+<br>
+}<br>
+<br>
+public class Test {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;public static void main(String[] args) {<br>
+<br>
+&nbsp;<br>
+<br>
+&nbsp;&nbsp;&nbsp;}<br>
+<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>D.</strong><br>You chose: <strong>D.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  bbcode editor">90</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  bbcode editor">900</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  bbcode editor">0</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/correctv3.webp" srcset="/img3/correctv3.png 1x, /img3/correctv3@3x.png 3x" width="15" height="16" alt="Correct answer"></div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  bbcode editor">None of these</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568431pointsscored">1</span> / 1</span></div><i class="qc"></i></div></div></div><div class="qd" id="switch-user-q30568455"><div class="single_question_box"><div class="qbox">
+		<div class="qboxprogress"><h2>Question 60 of 60</h2></div><div class="clear"></div>
+		</div>
+<div class="col600">
+		<div class="qsholder  editor qpad">what is the output of the following code?<br>
+public static void main(String... args) {<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;int a=5;<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;String s=Integer.toBinaryString(a);<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;BigInteger bi=new BigInteger(s);<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;a=bi.intValue();<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(a);<br>
+}</div>
+		<div class="dotted_quiz"></div><p class="chosen">Correct answer: <strong>C.</strong><br>You chose: <strong>B.</strong></p><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">A. </div>
+			<div class="saans  editor">5</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/wrongv3.webp" srcset="/img3/wrongv3.png 1x, /img3/wrongv3@3x.png 3x" width="15" height="16" alt="Incorrect answer"></div>
+			<div class="saabc editor">B. </div>
+			<div class="saans  editor">"5"</div></div><div class="sarow">
+			<div class="satick"><img src="file:///C:/Users/ayush/Downloads/ClassMarker%20-%20Results_files/arrow_bluev3.webp" srcset="/img3/arrow_bluev3.png 1x, /img3/arrow_bluev3@3x.png 3x" width="15" height="16" alt="Missed correct answer"></div>
+			<div class="saabc editor">C. </div>
+			<div class="saans  editor">101</div></div><div class="sarow">
+			<div class="satick">&nbsp;</div>
+			<div class="saabc editor">D. </div>
+			<div class="saans  editor">"101"</div></div><div class="dotted_quiz"></div><div><span class="headlinetoppoints"><strong>Points:</strong> <span id="30568455pointsscored">0</span> / 1</span></div><i class="qw"></i></div></div></div></div>	<div class="clearheight"></div>
+	<script>
+		var score_tracker = true;
+	</script>
+	<div class="col-span-5 clear-ads-responsive"></div><div class="col-span-5 clear-ads-responsive"></div></div><!-- innerWrapper -->
+</div>
+
+<div id="footer">
+    <div id="footercontent">
+        <ul>
+            <li><a href="https://www.classmarker.com/">ClassMarker Home</a></li>
+            <li><a href="https://www.classmarker.com/online-testing/">About ClassMarker</a></li>
+            <li><a href="https://www.classmarker.com/online-testing/terms/">Terms and Conditions</a></li>
+            <li><a href="https://www.classmarker.com/online-testing/privacy/">Privacy</a></li>
+            <li><a href="https://www.classmarker.com/online-testing/sitemap/">Site map</a></li>
+            <li class="last"><a href="https://www.classmarker.com/online-testing/contact-us/">Contact Us</a></li>
+        </ul>
+        <p>Copyright © 2006 - 2022 ClassMarker Pty Ltd. All rights reserved.</p>
+    </div>
+</div>
+
+<script>
+ka_path = "/ka.php?";
+</script>
+<script>
+(function (i, s, o, g, r, a, m) {
+	i['GoogleAnalyticsObject'] = r;
+	i[r] = i[r] || function () {
+		(i[r].q = i[r].q || []).push(arguments)
+	}, i[r].l = 1 * new Date();
+	a = s.createElement(o),
+		m = s.getElementsByTagName(o)[0];
+	a.async = 1;
+	a.src = g;
+	m.parentNode.insertBefore(a, m)
+})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-473958-2', 'auto');
+ga('set', 'anonymizeIp', true);
+ga('send', 'pageview');
+</script>
+
+</body></html>
